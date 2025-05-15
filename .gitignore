@@ -1,0 +1,12 @@
+# Exclure les fichiers Python inutiles
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclure les fichiers et dossiers de logs, cache et checkpoints
+.ipynb_checkpoints/
+logs/
+
+
+# Exclure les dossiers, fichiers d'aide et documents non nécessaires à GitHub
+instructions_app.txt
